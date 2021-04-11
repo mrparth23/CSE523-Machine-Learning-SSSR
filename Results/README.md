@@ -1,2 +1,2 @@
 # Results
-This folder contains Screenshots of Results of data analysis, Algorithms and performance analysis.
+This folder contains Screenshots of Results of data analysis, algorithms and performance analysis.
