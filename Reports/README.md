@@ -1,4 +1,4 @@
-# Codes
+# Reports
 This folder contains 2 files of Project Report:
 
 1. **Mid-sem Report** - This is a report which conatins KNN and ALS algorithm and its results
