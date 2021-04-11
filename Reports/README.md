@@ -1,6 +1,5 @@
 # Codes
-This folder contains 3 files each for particular algorithm:
+This folder contains 2 files of Project Report:
 
-1. **KNN** - File contains the python code for implementation of K-NearestNeighbors algorithm for movie recommendation based on input movie string.
-2. **ALS** - File contains the python code for implementation of Alternating-Least-Square algorithm for movie recommendation based on user's previous ratings and reviews.
-3. **SVD** - File contains the python code for implementation of Singular-Value-Decomposition algorithm for movie recommendation based on user's previous ratings and reviews.
+1. **Mid-sem Report** - This is a report which conatins KNN and ALS algorithm and its results
+2. **End-sem Report** - This is the final report which contains all 3 algorithms (KNN, ALS and SVD) its implmentation and its performance comparision.
