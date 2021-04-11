@@ -1,6 +1,5 @@
-# Codes
-This folder contains 3 files each for particular algorithm:
+# Presentations
+This folder contains 32 files each for mid-semester and end-semester presentation:
 
-1. **KNN** - File contains the python code for implementation of K-NearestNeighbors algorithm for movie recommendation based on input movie string.
-2. **ALS** - File contains the python code for implementation of Alternating-Least-Square algorithm for movie recommendation based on user's previous ratings and reviews.
-3. **SVD** - File contains the python code for implementation of Singular-Value-Decomposition algorithm for movie recommendation based on user's previous ratings and reviews.
+1. **Mid-semester** - This presentation conatians introduction, problem statement, approaches for the alogorithm, future work, etc. . Which we presented as a part of our mid-semester project.
+2. **End-semester** - This presentation conatians all the information about the project containing all the algorithms implemented.
