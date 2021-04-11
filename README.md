@@ -15,6 +15,11 @@ So we implemented 3 algorithms
 - Singular Value Decomposition(SVD)<br/>
   It is a model-based matrix factorization algorithm
 
+## Data Analysis
+![](Results/data_analysis_1.jpg)
+
+![](Results/data_analysis_2.jpg)
+
 ## Results
  
 #### KNN
@@ -24,7 +29,6 @@ So we implemented 3 algorithms
 ![](Results/actualPreference_ALS.jpg)
 
 ![](Results/recommendation_ALS.jpg)
-
 
 #### SVD
 ![](Results/actualPreference_SVD.jpg)
