@@ -15,11 +15,6 @@ So we implemented 3 algorithms
 - Singular Value Decomposition(SVD)<br/>
   It is a model-based matrix factorization algorithm
 
-## Results
-
-
-
-
 ## References
 -  Harrison, Onel. “Machine Learning Basics with the K-Nearest Neighbors Algorithm.” Medium, Towards Data Science, 14 July 2019, towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761
 -  Gupta, Meenu, et al. "Movie Recommender System Using Collaborative Filtering." 2020 International Conference on Electronics and Sustainable Communication Systems (ICESC). IEEE, 2020
